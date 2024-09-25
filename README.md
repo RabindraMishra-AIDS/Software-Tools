@@ -13,6 +13,10 @@ Latest Web development tools for Hackathons and Project Building.
 | :-------- | :------- | :------------------------- |
 | [Spline](https://spline.design/)   | `Frontend` | **3D Elements (with code)** |
 |[Readme.so](https://readme.so/editor)| `Text Editor`|  **Creates Readme File** |
+|[Draw.io](https://app.diagrams.net/)| `Diagram`|  **Flowcharts & Diagrams** |
+|[Canva](https://www.canva.com/)| `Graphic Design`|  **Presentation & Logo** |
+|[Miro](https://miro.com/)| `Diagram`|  **Charts & Diagrams** |
+
 
 
 
