@@ -17,6 +17,7 @@ Latest Web development tools for Hackathons and Project Building.
 |[Canva](https://www.canva.com/)| `Graphic Design`|  **Presentation & Logo** |
 |[Miro](https://miro.com/)| `Diagram`|  **Charts & Diagrams** |
 |[PythonTutor](https://pythontutor.com/)| `Compiler`|  **Visualizes Code Line by Line** |
+|[Chai n Code](https://docs.chaicode.com/)| `Documents`|  **Chai n Code** |
 
 
 
