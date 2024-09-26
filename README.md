@@ -1,7 +1,7 @@
 
 ## Tools 
 
-Latest Web development tools for Hackathons and Project Building.
+Latest Development tools for Hackathons and Project Building.
 
 ## List
 
