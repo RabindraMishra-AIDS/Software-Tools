@@ -18,6 +18,7 @@ Latest Web development tools for Hackathons and Project Building.
 |[Miro](https://miro.com/)| `Diagram`|  **Charts & Diagrams** |
 |[PythonTutor](https://pythontutor.com/)| `Compiler`|  **Visualizes Code Line by Line** |
 |[Chai n Code](https://docs.chaicode.com/)| `Documents`|  **Chai n Code** |
+|[Git Bash](https://git-scm.com/downloads)| `VCS`|  **Version Control System** |
 
 
 
