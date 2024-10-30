@@ -20,6 +20,7 @@ Latest Development tools for Hackathons and Project Building.
 |[Chai n Code](https://docs.chaicode.com/)| `Documents`|  **Chai n Code** |
 |[Git Bash](https://git-scm.com/downloads)| `VCS`|  **Version Control System** |
 |[Css Defination Syntax](https://developer.mozilla.org/en-US/docs/Web/CSS/Value_definition_syntax#single_bar)| `Documentation`|  **CSS Syntax** |
+|[ORCID ID](https://orcid.org/)| `Paper Publish`|  **ID for Researchers** |
 
 
 
