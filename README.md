@@ -22,6 +22,7 @@ Latest Development tools for Hackathons and Project Building.
 |[Css Defination Syntax](https://developer.mozilla.org/en-US/docs/Web/CSS/Value_definition_syntax#single_bar)| `Documentation`|  **CSS Syntax** |
 |[ORCID ID](https://orcid.org/)| `Paper Publish`|  **ID for Researchers** |
 |[UGC Care](https://ugccare.unipune.ac.in/apps1/home/index)| `Journals`|  **Find UGC Journals** |
+|[shad CDN](https://ui.shadcn.com/)| `Web Design`|  **UI Component Library** |
 
 
 
