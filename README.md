@@ -23,6 +23,7 @@ Latest Development tools for Hackathons and Project Building.
 |[ORCID ID](https://orcid.org/)| `Paper Publish`|  **ID for Researchers** |
 |[UGC Care](https://ugccare.unipune.ac.in/apps1/home/index)| `Journals`|  **Find UGC Journals** |
 |[shad CDN](https://ui.shadcn.com/)| `Web Design`|  **UI Component Library** |
+|[Font Awesome](https://fontawesome.com/)| `Web Icons`|  **UI Icons** |
 
 
 
