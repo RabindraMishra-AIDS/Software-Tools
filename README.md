@@ -24,6 +24,7 @@ Latest Development tools for Hackathons and Project Building.
 |[UGC Care](https://ugccare.unipune.ac.in/apps1/home/index)| `Journals`|  **Find UGC Journals** |
 |[shad CDN](https://ui.shadcn.com/)| `Web Design`|  **UI Component Library** |
 |[Font Awesome](https://fontawesome.com/)| `Web Icons`|  **UI Icons** |
+|[CDNJS](https://cdnjs.com/)| `Content Delivery Network`|  **Connects our system with nearest server** |
 
 
 
