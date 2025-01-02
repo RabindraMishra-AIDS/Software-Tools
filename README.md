@@ -25,7 +25,8 @@ Latest Development tools for Hackathons and Project Building.
 |[shad CDN](https://ui.shadcn.com/)| `Web Design`|  **UI Component Library** |
 |[Font Awesome](https://fontawesome.com/)| `Web Icons`|  **UI Icons** |
 |[CDNJS](https://cdnjs.com/)| `Content Delivery Network`|  **Connects our system with nearest server** |
-|[Line Formatter](https://www.textconverter.net/)| `Formatting text`|  **for Online post** |
+|[Line Formatter](https://www.textconverter.net/)| `Formatting text`|  **For Online post** |
+|[Emojipedia](https://emojipedia.org/)| `Collection of Emojis`|  **For Online post** |
 
 
 
