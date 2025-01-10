@@ -28,6 +28,10 @@ Latest Development tools for Hackathons and Project Building.
 |[Line Formatter](https://www.textconverter.net/)| `Formatting text`|  **For Online post** |
 |[Emojipedia](https://emojipedia.org/)| `Collection of Emojis`|  **For Online post** |
 |[Programming Cheatsheet](https://quickref.me/)| `Cheatsheet`|  **For Beginners** |
+|[Frontend Element](https://uiverse.io/)| `UI Elements`|  **Frontend Design** |
+|[Coding Excersises](https://exercism.org/)| `Programming Practice`|  **For Beginners** |
+|[Resume Maker](https://resumake.io/)| `Making Resume`|  **Predefined Template** |
+
 
 
 
