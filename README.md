@@ -31,7 +31,7 @@ Latest Development tools for Hackathons and Project Building.
 |[Frontend Element](https://uiverse.io/)| `UI Elements`|  **Frontend Design** |
 |[Coding Excersises](https://exercism.org/)| `Programming Practice`|  **For Beginners** |
 |[Resume Maker](https://resumake.io/)| `Making Resume`|  **Predefined Template** |
-
+|[Data.gov.in](https://www.data.gov.in/)| `API & Dataset`|  **Get Govt of India Datset and API** |
 
 
 
