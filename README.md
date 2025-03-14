@@ -32,6 +32,7 @@ Latest Development tools for Hackathons and Project Building.
 |[Coding Excersises](https://exercism.org/)| `Programming Practice`|  **For Beginners** |
 |[Resume Maker](https://resumake.io/)| `Making Resume`|  **Predefined Template** |
 |[Data.gov.in](https://www.data.gov.in/)| `API & Dataset`|  **Get Govt of India Datset and API** |
+|[same.dev](https://same.dev/)| `UI Clone`|  **Create exacts UI Clone of website** |
 
 
 
