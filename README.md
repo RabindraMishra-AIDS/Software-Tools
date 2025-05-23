@@ -12,6 +12,7 @@ Latest Development tools for Hackathons and Project Building.
 | Name      | Type     | Description                
 | :-------- | :------- | :------------------------- |
 | [Spline](https://spline.design/)   | `Frontend` | **3D Elements (with code)** |
+| [DownGit](https://downgit.github.io/#/home)   | `Github` | **Downloading github File ** |
 |[Readme.so](https://readme.so/editor)| `Text Editor`|  **Creates Readme File** |
 |[Draw.io](https://app.diagrams.net/)| `Diagram`|  **Flowcharts & Diagrams** |
 |[Canva](https://www.canva.com/)| `Graphic Design`|  **Presentation & Logo** |
