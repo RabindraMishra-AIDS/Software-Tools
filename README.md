@@ -4,7 +4,7 @@
 Latest Development tools for Hackathons and Project Building.
 
 ---
-### Job
+### Jobs & Reviews
 | Name      | Type     | Description                
 | :-------- | :------- | :------------------------- |
 | [Glassdoor](https://www.glassdoor.co.in/Community/index.htm)   | `Review` | **Know About Company & People** |
