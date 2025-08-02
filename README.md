@@ -3,7 +3,16 @@
 
 Latest Development tools for Hackathons and Project Building.
 
-## List
+---
+### Job
+| Name      | Type     | Description                
+| :-------- | :------- | :------------------------- |
+| [Glassdoor](https://www.glassdoor.co.in/Community/index.htm)   | `Review` | **Know About Company & People** |
+| [Ambition Box](https://www.ambitionbox.com/)   | `Review` | **Know About Your Company** |
+
+---
+
+## DEV & Academics
 
 
 
