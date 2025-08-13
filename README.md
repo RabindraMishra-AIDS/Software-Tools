@@ -4,11 +4,12 @@
 Latest Development tools for Hackathons and Project Building.
 
 ---
-### Jobs & Reviews
+### Jobs & Placements
 | Name      | Type     | Description                
 | :-------- | :------- | :------------------------- |
 | [Glassdoor](https://www.glassdoor.co.in/Community/index.htm)   | `Review` | **Know About Company & People** |
 | [Ambition Box](https://www.ambitionbox.com/)   | `Review` | **Know About Your Company** |
+| [IndiaBix](https://www.indiabix.com/)   | `Practice` | **Interview Questions** |
 
 ---
 
