@@ -13,7 +13,14 @@ Latest Development tools for Hackathons and Project Building.
 | [LetsCode](https://www.lets-code.co.in/startups-list/)   | `Startup Explore` | **Find Startup Jobs & other Opportunities** |
 
 ---
+### Hackathons & Events
+| Name      | Type     | Description                
+| :-------- | :------- | :------------------------- |
+| [Devfolio](https://devfolio.co/)   | `Hackathon` | **Join Hackathons & Workshops** |
+| [Hack2Skill](https://hack2skill.com/)   | `Hackathon` | **Join Hackathons & Workshops** |
+| [Luma](https://luma.com/home)   | `Events` | **Join Events & Webinars** |
 
+---
 ## DEV & Academics
 
 
